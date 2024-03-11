@@ -9,3 +9,6 @@
 body{
     background-color: var(--roxo) ;
 }
+img{
+    width: 10%;
+}
