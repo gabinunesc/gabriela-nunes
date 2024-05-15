@@ -23,3 +23,7 @@ header{
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
+
+.tam{
+    width: 30%;
+}
