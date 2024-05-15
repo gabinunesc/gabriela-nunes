@@ -30,18 +30,9 @@ header{
 .tamanho{
     width: 37%;
 }
-#equipe{
+#Equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
 
-#equipe{
-    width: 17%;
-}
-#equipe1{
-    width: 17%;
-}
-#equipe2{
-    width: 17%;
-}
